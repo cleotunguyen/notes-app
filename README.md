@@ -1,4 +1,4 @@
-# Getting Started with this Note App
+# Getting Started with Note App
 
 Full Stack Notes App Using React, Node.js, CSS and PostgreSQL.
 
