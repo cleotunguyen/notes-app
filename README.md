@@ -15,9 +15,9 @@ Full Stack Notes App Using React, Node.js, CSS and PostgreSQL.
 In the project directory, you can run:
 
 ### `npm start`
-- Run `npm start` in both `npm start` in `notes-app-ui` and `notes-app-server` folders to run the app in the in the development mode.\
-- Connect to your PostgreSQL database.\
-- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
+- Run `npm start` in both `npm start` in `notes-app-ui` and `notes-app-server` folders to run the app in the in the development mode.
+- Connect to your PostgreSQL database.
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
