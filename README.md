@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with this Note App
 
 Full Stack Notes App Using React, Node.js, CSS and PostgreSQL.
 
