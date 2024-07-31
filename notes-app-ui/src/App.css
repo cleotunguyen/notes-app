@@ -44,23 +44,7 @@ body {
   justify-content: flex-end;
 }
 
-/* Delete note button */
-.notes-header button {
-  color: #3c73ff;
-  cursor: pointer;
-  font-size: 20px;
-  font-weight: bold;
 
-  border: 3px solid #3c73ff;
-  background: white;
-  border-radius: 10px;
-  padding: 4px;
-  margin: 10px;
-}
-
-.notes-header button:hover {
-  background: transparent;
-}
 
 h2 {
   margin: 0;
@@ -78,13 +62,25 @@ p {
 .editNoteContainer {
   display: grid;
 }
-/* Back button */
+
+
+/* Return to home + delete buttons */
 .back-button, .notes-header button {
   border: none; 
   outline: none; 
   box-shadow: none; 
   background: none;
+  margin-bottom: 10px 
 }
+
+
+/* Return to home + delete button hover  */
+
+.back-button:hover, .notes-header button:hover {
+  transform: scale(1.25);
+  transition: .3s ease-in-out;
+}
+
 
 /* Form to update note */
 .note-form {
