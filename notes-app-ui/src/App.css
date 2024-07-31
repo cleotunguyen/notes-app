@@ -37,6 +37,7 @@ body {
   font-family: poppins;
   text-align: center;
   box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+  white-space: pre-line;
 }
 
 .notes-header {
@@ -106,6 +107,7 @@ input {
   color: gray;
   text-align: left;
   box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+
 }
 
 /* "Add Note" Button */
